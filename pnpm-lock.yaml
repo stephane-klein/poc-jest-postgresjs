@@ -9,10 +9,10 @@ dependencies:
     specifier: 1.4.1
     version: 1.4.1
   jest:
-    specifier: ^29.6.4
+    specifier: 29.6.4
     version: 29.6.4
   postgres:
-    specifier: ^3.3.5
+    specifier: 3.3.5
     version: 3.3.5
 
 packages:
