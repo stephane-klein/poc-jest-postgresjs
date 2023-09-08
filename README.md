@@ -24,7 +24,7 @@ $ pnpm run migrate-test:watch
 Execute unittest:
 
 ```sh
-$ pnpm run test
+$ pnpm run tests
  PASS  tests/contacts.js
   ✓ Insert in contacts (2 ms)
 
